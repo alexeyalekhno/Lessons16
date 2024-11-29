@@ -1,0 +1,27 @@
+[
+  {
+    "ProductCode": 100220,
+    "ProductName": "Хлеб",
+    "ProductPrice": 51.990000000000002
+  },
+  {
+    "ProductCode": 123543,
+    "ProductName": "Молоко",
+    "ProductPrice": 91.200000000000003
+  },
+  {
+    "ProductCode": 123531,
+    "ProductName": "Яблоки",
+    "ProductPrice": 123.8
+  },
+  {
+    "ProductCode": 124570,
+    "ProductName": "Макароны",
+    "ProductPrice": 49.990000000000002
+  },
+  {
+    "ProductCode": 785632,
+    "ProductName": "Шоколад",
+    "ProductPrice": 100
+  }
+]
